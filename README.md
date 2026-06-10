@@ -1,8 +1,8 @@
 # Advanced Gmail to Notion Sync Pro
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gmail,notion,js" alt="Skill Icons" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=gmail,notion,js" alt="Skill Icons" />
+
 
 An automated pipeline to transform emails into Notion tasks with full support for file attachments, sender security, and deep linking.
 
